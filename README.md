@@ -51,7 +51,7 @@
     <td width="33%" valign="top">
       <h4><a href="https://github.com/iigor000/Database">Custom NoSQL Engine</a></h4>
       <p>A distributed key-value storage system built in <b>Go</b>. Features a custom TCP protocol, client-server architecture, and write-ahead logging.</p>
-      <code>Go</code> <code>NoSQL</code> <code>Network Programming</code>
+      <code>Go</code> <code>NoSQL</code>
     </td>
   </tr>
 </table>
