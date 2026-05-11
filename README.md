@@ -38,15 +38,20 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h4> PKI Management System</h4>
       <p>Full lifecycle X.509 certificate management. Implemented WebCryptoAPI and secure RSA/AES encryption logic.</p>
       <code>PostgreSQL</code> <code>WebCrypto</code> <code>Security</code>
     </td>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h4> Full-Stack Taxi Platform</h4>
       <p>Real-time ride-sharing orchestration with high-concurrency database management and JWT security.</p>
       <code>Spring Boot</code> <code>PostgreSQL</code> <code>JWT</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/iigor000/Database">Custom NoSQL Engine</a></h4>
+      <p>A distributed key-value storage system built in <b>Go</b>. Features a custom TCP protocol, client-server architecture, and write-ahead logging.</p>
+      <code>Go</code> <code>NoSQL</code> <code>Network Programming</code>
     </td>
   </tr>
 </table>
