@@ -19,7 +19,7 @@
 
 <p align="justify">
   Software Engineering student at the <b>Faculty of Technical Sciences, Novi Sad</b>.
-  Full-stack developer</b> with a primary interest and focus on <b>security</b>. Experienced in building secure backend systems, managing databases, and implementing PKI protocols.
+  Full-stack developer</b> with a primary interest and focus on <b>security</b>. Experienced in building secure backend systems and managing databases.
   Comfortable working in <b>Agile/Scrum</b> team environments.
 </p>
 
@@ -27,14 +27,14 @@
 
 ### Languages & Tools I Have Placed My Hands On
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,py,js,ts,html,css,go" /><br><br>
   <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,linux,git,github,postman,aws" />
 </p>
 
 ---
 
-### Key Projects (Featured Adventures)
+### Key Projects
 
 <table>
   <tr>
