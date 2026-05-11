@@ -44,7 +44,7 @@
       <code>PostgreSQL</code> <code>WebCrypto</code> <code>Security</code>
     </td>
     <td width="33%" valign="top">
-      <h4> Full-Stack Taxi Platform</h4>
+      <h4><a href="https://github.com/kzi-nastava/mrs-team15-M.I.D">Full-Stack Taxi Platform</h4>
       <p>Real-time ride-sharing orchestration with high-concurrency database management and JWT security.</p>
       <code>Spring Boot</code> <code>PostgreSQL</code> <code>JWT</code>
     </td>
