@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mia Uglješić</h1>
+  <h1>Hi, I'm Mia Uglješić</h1>
   <p align="center">
     <strong>Software Engineering Student @ FTN</strong>
   </p>
