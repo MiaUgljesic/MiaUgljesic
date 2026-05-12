@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/kzi-nastava/siit-ib-projekat-tim29.git">PKI Management System</h4>
+      <h4><a href="https://github.com/MiaUgljesic/PKI-management-system.git">PKI Management System</h4>
       <p>Full lifecycle X.509 certificate management. Implemented WebCryptoAPI and secure RSA/AES encryption logic.</p>
       <code>PostgreSQL</code> <code>WebCrypto</code> <code>Security</code>
     </td>
