@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 632" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      text { font-family: 'Share Tech Mono', monospace, 'Courier New', sans-serif; }
+
+      .bg { fill: #1A0B14; }
+      .border { stroke: #4A1F38; stroke-width: 1.5; fill: none; }
+
+      .hud-title { font-size: 14px; font-weight: bold; fill: #ffffff; letter-spacing: 1.5px; }
+      .hud-sub { font-size: 11px; fill: #B4849C; letter-spacing: 1px; }
+
+      .project-card { fill: #12060D; stroke: #4A1F38; stroke-width: 1; }
+      .project-name { font-size: 15px; font-weight: bold; fill: #FFFFFF; }
+      .project-desc { font-size: 11px; fill: #B4849C; }
+      .project-meta { font-size: 11px; fill: #F9A8D4; }
+
+      a { cursor: pointer; }
+    </style>
+
+    <pattern id="starGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.8" fill="#ffffff" opacity="0.10" />
+      <circle cx="30" cy="25" r="0.6" fill="#F9A8D4" opacity="0.18" />
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="632" rx="10" class="bg" />
+  <rect width="1000" height="632" rx="10" fill="url(#starGrid)" />
+  <rect x="1" y="1" width="998" height="630" rx="9" class="border" />
+
+  <text x="30" y="32" class="hud-title">PINNED PROJECTS</text>
+  <text x="30" y="48" class="hud-sub">LIVE FROM GITHUB // USER: MIAUGLJESIC</text>
+  <line x1="30" y1="56" x2="970" y2="56" stroke="#4A1F38" stroke-width="1" />
+
+  
+  <a href="https://github.com/MiaUgljesic/pki-certificate-management-system" target="_blank" rel="noopener noreferrer">
+    <rect x="30" y="66" width="940" height="96" rx="8" class="project-card" />
+    <rect x="30" y="66" width="4" height="96" rx="2" fill="#F472B6" />
+
+    <text x="52" y="92" class="project-name">pki-certificate-management-system</text>
+    <text x="52" y="113" class="project-desc">Architecture and technical showcase of a full-stack PKI &amp; Certificate Management System…</text>
+
+    <circle cx="56" cy="134" r="4" fill="#b07219" />
+    <text x="66" y="138" class="project-meta">Java</text>
+
+    <text x="190" y="138" class="project-meta">★ 0</text>
+    <text x="260" y="138" class="project-meta">⑂ 0</text>
+  </a>
+
+  <a href="https://github.com/iigor000/NoSql-Database" target="_blank" rel="noopener noreferrer">
+    <rect x="30" y="176" width="940" height="96" rx="8" class="project-card" />
+    <rect x="30" y="176" width="4" height="96" rx="2" fill="#F472B6" />
+
+    <text x="52" y="202" class="project-name">NoSql-Database</text>
+    <text x="52" y="223" class="project-desc">A high-performance NoSQL key-value database written in Go, featuring advanced data stru…</text>
+
+    <circle cx="56" cy="244" r="4" fill="#00ADD8" />
+    <text x="66" y="248" class="project-meta">Go</text>
+
+    <text x="190" y="248" class="project-meta">★ 0</text>
+    <text x="260" y="248" class="project-meta">⑂ 1</text>
+  </a>
+
+  <a href="https://github.com/kzi-nastava/mrs-team15-M.I.D" target="_blank" rel="noopener noreferrer">
+    <rect x="30" y="286" width="940" height="96" rx="8" class="project-card" />
+    <rect x="30" y="286" width="4" height="96" rx="2" fill="#F472B6" />
+
+    <text x="52" y="312" class="project-name">mrs-team15-M.I.D</text>
+    <text x="52" y="333" class="project-desc">Full-stack ride-hailing system with real-time driver matching and high-concurrency data…</text>
+
+    <circle cx="56" cy="354" r="4" fill="#b07219" />
+    <text x="66" y="358" class="project-meta">Java</text>
+
+    <text x="190" y="358" class="project-meta">★ 2</text>
+    <text x="260" y="358" class="project-meta">⑂ 0</text>
+  </a>
+
+  <a href="https://github.com/iigor000/sok-graph-visualizer" target="_blank" rel="noopener noreferrer">
+    <rect x="30" y="396" width="940" height="96" rx="8" class="project-card" />
+    <rect x="30" y="396" width="4" height="96" rx="2" fill="#F472B6" />
+
+    <text x="52" y="422" class="project-name">sok-graph-visualizer</text>
+    <text x="52" y="443" class="project-desc">  A modular graph visualization platform built with Django and Flask, utilizing a plugi…</text>
+
+    <circle cx="56" cy="464" r="4" fill="#3572A5" />
+    <text x="66" y="468" class="project-meta">Python</text>
+
+    <text x="190" y="468" class="project-meta">★ 0</text>
+    <text x="260" y="468" class="project-meta">⑂ 1</text>
+  </a>
+
+  <a href="https://github.com/MiaUgljesic/AI-Checkers" target="_blank" rel="noopener noreferrer">
+    <rect x="30" y="506" width="940" height="96" rx="8" class="project-card" />
+    <rect x="30" y="506" width="4" height="96" rx="2" fill="#F472B6" />
+
+    <text x="52" y="532" class="project-name">AI-Checkers</text>
+    <text x="52" y="553" class="project-desc">A strategic board game implementation featuring an AI opponent driven by the Minimax al…</text>
+
+    <circle cx="56" cy="574" r="4" fill="#3572A5" />
+    <text x="66" y="578" class="project-meta">Python</text>
+
+    <text x="190" y="578" class="project-meta">★ 0</text>
+    <text x="260" y="578" class="project-meta">⑂ 0</text>
+  </a>
+</svg>

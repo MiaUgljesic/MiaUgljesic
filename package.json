@@ -1,0 +1,22 @@
+{
+  "name": "github-jet-heatmap",
+  "version": "1.0.0",
+  "description": "Generates pink-themed SVGs from GitHub data: a contribution heatmap and a pinned-projects card.",
+  "main": "generate.mjs",
+  "type": "module",
+  "scripts": {
+    "build": "node generate.mjs",
+    "build:projects": "node generate-projects.mjs",
+    "build:all": "npm run build && npm run build:projects",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "svg",
+    "heatmap",
+    "profile",
+    "arcade"
+  ],
+  "author": "MiaUgljesic",
+  "license": "MIT"
+}
