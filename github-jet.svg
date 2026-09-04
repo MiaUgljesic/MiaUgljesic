@@ -39,7 +39,7 @@
     <text x="30" y="32" class="hud-title">GITHUB ACTIVITY</text>
     <text x="30" y="48" class="hud-sub">CONTRIBUTIONS // LAST 12 MONTHS</text>
 
-    <text x="1002" y="32" text-anchor="end"><tspan class="hud-label-pink">TOTAL CONTRIBUTIONS: </tspan><tspan class="hud-val-pink">533</tspan></text>
+    <text x="1002" y="32" text-anchor="end"><tspan class="hud-label-pink">TOTAL CONTRIBUTIONS: </tspan><tspan class="hud-val-pink">544</tspan></text>
     <line x1="30" y1="56" x2="1002" y2="56" stroke="#4A1F38" stroke-width="1" />
   </g>
 
@@ -1146,8 +1146,8 @@
 <rect x="970" y="110" width="14" height="14" rx="2" ry="2" fill="#1F0E18" data-count="0" data-date="2026-08-24">
         <title>0 contributions on 2026-08-24</title>
       </rect>
-<rect x="970" y="128" width="14" height="14" rx="2" ry="2" fill="#1F0E18" data-count="0" data-date="2026-08-25">
-        <title>0 contributions on 2026-08-25</title>
+<rect x="970" y="128" width="14" height="14" rx="2" ry="2" fill="#C2255C" data-count="8" data-date="2026-08-25">
+        <title>8 contributions on 2026-08-25</title>
       </rect>
 <rect x="970" y="146" width="14" height="14" rx="2" ry="2" fill="#1F0E18" data-count="0" data-date="2026-08-26">
         <title>0 contributions on 2026-08-26</title>
@@ -1161,8 +1161,8 @@
 <rect x="970" y="200" width="14" height="14" rx="2" ry="2" fill="#1F0E18" data-count="0" data-date="2026-08-29">
         <title>0 contributions on 2026-08-29</title>
       </rect>
-<rect x="988" y="92" width="14" height="14" rx="2" ry="2" fill="#1F0E18" data-count="0" data-date="2026-08-30">
-        <title>0 contributions on 2026-08-30</title>
+<rect x="988" y="92" width="14" height="14" rx="2" ry="2" fill="#7A1C4D" data-count="3" data-date="2026-08-30">
+        <title>3 contributions on 2026-08-30</title>
       </rect>
 <rect x="988" y="110" width="14" height="14" rx="2" ry="2" fill="#7A1C4D" data-count="1" data-date="2026-08-31">
         <title>1 contributions on 2026-08-31</title>
